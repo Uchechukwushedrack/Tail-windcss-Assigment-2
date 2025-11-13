@@ -1,0 +1,47 @@
+        body{
+            background-color: rgb(28, 24, 20);
+            color: white;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            display: flex;
+            flex-direction: row;
+            align-content: center;
+            justify-content: center;
+        }
+        .full{
+          background-color: yellow;
+          color: black;
+          padding: 30px;
+          border-radius: 40px;
+          margin-bottom: 20px;
+        }
+          
+        .email{
+          background-color: antiquewhite;
+          color: black;
+          padding: 30px;
+          margin-bottom: 20px;
+          border-radius: 40px;
+        }
+    .sub{
+      background-color: white;
+      color: black;
+      padding: 30px;
+      margin-bottom: 20px;
+      border-radius: 40px;
+    }
+    .write{
+      background-color: aqua;
+      color: black;
+      padding: 30px;
+      border-radius: 40px;
+    }
+    ::placeholder{
+     color: black;
+     align-items: center;
+    }
+    form{
+      padding: 40px;
+      border: dotted;
+      border-radius: 50px;
+      border-color: whitesmoke;
+    }
