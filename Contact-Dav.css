@@ -1,0 +1,90 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: rgb(69, 118, 118);
+  margin-bottom: 40px;
+  padding-bottom: 40px;
+}
+.Div-hi {
+  color: blue;
+  background-color: #f2f2f2;
+  font-size: 50px;
+  padding-top: 40px;
+  margin-bottom: 40px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  box-shadow: #f2f2f2;
+  
+}
+ div{
+    /* border:blue 3px solid; */
+    border-radius: 10px;
+    width: 100vh;
+    background-color: antiquewhite;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 20px;
+    margin-left: 12cm;
+    
+
+ }
+ label{
+    /* border: 1px solid red; */
+    width: 40px;
+    padding-top: 15px;
+    margin-bottom: 4px;
+    font-size: 20px;
+    font-weight: 800;
+ }
+ input{
+    background-color: hsl(189, 18%, 92%);
+    width: 50vh;
+    height: 3.5vh;
+    border-radius: 5px;
+
+ }
+ .radio{
+    font-size: 20px;
+    /* text-align: center; */
+    margin: ;
+    
+
+ }
+ .message-textarea{
+    /* border: 1px solid red; */
+  border-radius: 6px;
+  font-size: 16px;
+  outline: none;
+
+    
+ }
+ textarea{
+    border: 1px solid black;
+    width: 90vh;
+    height: 12vh;
+ }
+ button{
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  cursor: pointer;
+  /* transition: background 0.3s ease; */
+ }
+ button:hover{
+    background-color: blue;
+ }
+
+    
+
+
